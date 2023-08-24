@@ -27,3 +27,5 @@
    Write the code in such a way that classes or objects depend on general or abstract ideas,
    rather than the specific details.
    Dependancy if it exists in code should be dependable on abstract details and not specific details.
+
+The Code Snippets for all the principles are given in this repository.
